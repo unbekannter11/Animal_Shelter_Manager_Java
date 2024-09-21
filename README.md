@@ -55,5 +55,3 @@ This project is a Java-based application designed to manage an animal shelter ef
 - Adding a user-friendly interface for better interaction with the shelter system.
 
 ---
-
-This description outlines the purpose, features, and basic usage of your project, providing context for potential collaborators or users who view it on GitHub.
